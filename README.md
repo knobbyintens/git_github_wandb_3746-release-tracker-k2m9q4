@@ -1,11 +1,5 @@
-# Vendor Operations Handbook
+# Q4 Model Release Tracker
 
-Internal working repository of the Vendor Management Office.
+This repository holds the release gate records for the Q4 model program.
 
-- `policy/` - current review policy and supporting guidance
-- `vendors/registry.json` - master list of active and probation vendors
-- `vendors/notes.md` - assessment notes for every vendor in the registry
-- `templates/` - output templates
-- `reviews/` - published quarterly review packages
-
-Confidential. Do not share outside the company.
+Gate decisions are published to `release_board/gate_decision.json` on the `release-gate` branch.
