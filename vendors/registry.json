@@ -13,7 +13,10 @@
     "open_findings": 1,
     "last_audit": "2026-06-18",
     "status": "active",
-    "account_owner": "Priya Raman"
+    "account_owner": "Priya Raman",
+    "review_status": "approved",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1177",
@@ -28,7 +31,10 @@
     "open_findings": 0,
     "last_audit": "2025-11-20",
     "status": "active",
-    "account_owner": "Tomas Herrera"
+    "account_owner": "Tomas Herrera",
+    "review_status": "conditional",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1204",
@@ -43,7 +49,10 @@
     "open_findings": 2,
     "last_audit": "2024-09-30",
     "status": "probation",
-    "account_owner": "Ingrid Solberg"
+    "account_owner": "Ingrid Solberg",
+    "review_status": "conditional",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1310",
@@ -56,7 +65,10 @@
     "open_findings": 3,
     "last_audit": "2023-05-11",
     "status": "probation",
-    "account_owner": "Kofi Mensah"
+    "account_owner": "Kofi Mensah",
+    "review_status": "rejected",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1428",
@@ -71,7 +83,10 @@
     "open_findings": 2,
     "last_audit": "2026-01-12",
     "status": "active",
-    "account_owner": "Elena Petrova"
+    "account_owner": "Elena Petrova",
+    "review_status": "approved",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1553",
@@ -86,7 +101,10 @@
     "open_findings": 4,
     "last_audit": "2025-12-09",
     "status": "active",
-    "account_owner": "Hassan Al-Rashid"
+    "account_owner": "Hassan Al-Rashid",
+    "review_status": "conditional",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1661",
@@ -99,7 +117,10 @@
     "open_findings": 0,
     "last_audit": "2024-06-03",
     "status": "active",
-    "account_owner": "Grace Lim"
+    "account_owner": "Grace Lim",
+    "review_status": "conditional",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1775",
@@ -112,7 +133,10 @@
     "open_findings": 1,
     "last_audit": "2026-02-15",
     "status": "active",
-    "account_owner": "Dmitri Volkov"
+    "account_owner": "Dmitri Volkov",
+    "review_status": "approved",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   },
   {
     "vendor_id": "VND-1882",
@@ -128,6 +152,9 @@
     "open_findings": 1,
     "last_audit": "2026-03-27",
     "status": "active",
-    "account_owner": "Ana Carvalho"
+    "account_owner": "Ana Carvalho",
+    "review_status": "approved",
+    "last_reviewed": "2026-11-05",
+    "review_quarter": "2026-Q4"
   }
 ]

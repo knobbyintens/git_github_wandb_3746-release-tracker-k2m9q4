@@ -1,0 +1,95 @@
+{
+  "cycle": "2026-Q4",
+  "review_date": "2026-11-05",
+  "decisions": [
+    {
+      "vendor_id": "VND-1042",
+      "vendor_name": "Halcyon Data Systems",
+      "decision": "approved",
+      "conditions": [],
+      "reviewer": "Dana Whitfield",
+      "escalated": true,
+      "next_review_quarter": "2027-Q4"
+    },
+    {
+      "vendor_id": "VND-1177",
+      "vendor_name": "Meridian Cloud Labs",
+      "decision": "conditional",
+      "conditions": [
+        "Provide SOC 2 Type II evidence within 60 days"
+      ],
+      "reviewer": "Dana Whitfield",
+      "escalated": false,
+      "next_review_quarter": "2027-Q2"
+    },
+    {
+      "vendor_id": "VND-1204",
+      "vendor_name": "Cobalt Freight Analytics",
+      "decision": "conditional",
+      "conditions": [
+        "Provide SOC 2 Type II evidence within 60 days"
+      ],
+      "reviewer": "Dana Whitfield",
+      "escalated": true,
+      "next_review_quarter": "2027-Q2"
+    },
+    {
+      "vendor_id": "VND-1310",
+      "vendor_name": "Bluefin Ledger Services",
+      "decision": "rejected",
+      "conditions": [],
+      "reviewer": "Dana Whitfield",
+      "escalated": false,
+      "next_review_quarter": "2027-Q1"
+    },
+    {
+      "vendor_id": "VND-1428",
+      "vendor_name": "Quarry Print Solutions",
+      "decision": "approved",
+      "conditions": [],
+      "reviewer": "Ruben Castellanos",
+      "escalated": false,
+      "next_review_quarter": "2027-Q4"
+    },
+    {
+      "vendor_id": "VND-1553",
+      "vendor_name": "Solstice Payroll Partners",
+      "decision": "conditional",
+      "conditions": [
+        "Remediate open findings before contract renewal"
+      ],
+      "reviewer": "Ruben Castellanos",
+      "escalated": true,
+      "next_review_quarter": "2027-Q2"
+    },
+    {
+      "vendor_id": "VND-1661",
+      "vendor_name": "Larkfield Office Supply",
+      "decision": "conditional",
+      "conditions": [
+        "Complete a fresh security audit within 90 days"
+      ],
+      "reviewer": "Mei-Lin Zhao",
+      "escalated": false,
+      "next_review_quarter": "2027-Q2"
+    },
+    {
+      "vendor_id": "VND-1775",
+      "vendor_name": "Nimbus Catering Co-op",
+      "decision": "approved",
+      "conditions": [],
+      "reviewer": "Mei-Lin Zhao",
+      "escalated": false,
+      "next_review_quarter": "2027-Q4"
+    },
+    {
+      "vendor_id": "VND-1882",
+      "vendor_name": "Titanium Networks",
+      "decision": "approved",
+      "conditions": [],
+      "reviewer": "Ruben Castellanos",
+      "escalated": true,
+      "next_review_quarter": "2027-Q4"
+    }
+  ]
+}
