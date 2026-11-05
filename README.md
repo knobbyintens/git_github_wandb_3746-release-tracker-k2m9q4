@@ -1,2 +1,1 @@
-# probe updated
-hello v2
+# probe rate ok
